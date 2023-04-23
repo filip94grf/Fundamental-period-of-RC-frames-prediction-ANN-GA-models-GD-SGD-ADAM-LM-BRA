@@ -1,0 +1,1 @@
+# Fundamental-period-of-RC-frames-prediction-ANN-GA-models-GD-SGD-ADAM-LM-BRA
