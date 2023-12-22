@@ -14,4 +14,4 @@ This repository contains user-friendly ANN and GA models for predicting the fund
 
 !!!Files related to implementation of Genetic Algorithm are "AiC_GA_multiobjective_INFILLED" and "AiC_GA_nonlinear_constraints_INFILLED" (they must be active at the same time)
 
-Cite the article: Đorđević, F. and Marinković, M. (2023), “Advanced ANN Regularization-Based Algorithm for Prediction of the Fundamental Period of Masonry Infilled RC Frames”, Advances in Computers, Elsevier.
+Cite the article: Đorđević, F. and Marinković, M. (2024), “Advanced ANN Regularization-Based Algorithm for Prediction of the Fundamental Period of Masonry Infilled RC Frames”, Journal of Big Data, Elsevier.
